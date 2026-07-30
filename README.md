@@ -1,9 +1,9 @@
-<h1 align="center">
+<img width="1884" height="1020" alt="image" src="https://github.com/user-attachments/assets/c801060b-5e97-4058-bd0b-77e42be4f8cc" /><h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EBFA5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Purna+Chandra+Kumar;B.Tech+IT+Student+%7C+Aspiring+SWE;Building+with+AI%2C+Computer+Vision+%26+Full+Stack;Always+learning%2C+always+building" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://portofolio-seven-gules-63.vercel.app/">
+  <a href="https://purna-chandra-kumar.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-2EBFA5?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:santoshpanigrahi7505@gmail.com">
@@ -73,7 +73,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Purna-Chandra-kumar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Purna-Chandra-kumar&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Purna-Chandra-kumar&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Purna-Chandra-kumar/Purna-Chandra-kumar/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
+ <img src="https://raw.githubusercontent.com/Purna-Chandra-kumar/Purna-Chandra-kumar/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake animation" />
 </p>
 
 > ⚠️ Snake graph needs a one-time GitHub Action setup — see "Snake Graph Setup" below.
