@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EBFA5&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+Machine+Learning+%7C+Computer+Vision;Full+Stack+Developer;Always+Learning+and+Building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2EBFA5&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Purna+Chandra+Kumar;B.Tech+IT+Student;Aspiring+Software+Engineer;AI+%7C+Machine+Learning+%7C+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
