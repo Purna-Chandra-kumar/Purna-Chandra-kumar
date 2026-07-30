@@ -3,8 +3,6 @@
 </h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Portfolio-2EBFA5?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
   <a href="mailto:santoshpanigrahi7505@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
