@@ -1,6 +1,14 @@
-<img width="1884" height="1020" alt="image" src="https://github.com/user-attachments/assets/c801060b-5e97-4058-bd0b-77e42be4f8cc" /><h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EBFA5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Purna+Chandra+Kumar;B.Tech+IT+Student+%7C+Aspiring+SWE;Building+with+AI%2C+Computer+Vision+%26+Full+Stack;Always+learning%2C+always+building" alt="Typing SVG" />
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#2EBFA5;">Purna Chandra Kumar</span>
 </h1>
+
+<h3 align="center">
+  B.Tech IT Student • Aspiring Software Engineer • AI & Full-Stack Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EBFA5&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+Machine+Learning+%7C+Computer+Vision;Full+Stack+Developer;Always+Learning+and+Building+🚀" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="mailto:santoshpanigrahi7505@gmail.com">
@@ -11,7 +19,6 @@
   </a>
 </p>
 
----
 
 ### 🚀 About Me
 
