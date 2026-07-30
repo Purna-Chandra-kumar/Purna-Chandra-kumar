@@ -72,12 +72,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Purna-Chandra-kumar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Purna-Chandra-kumar&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Purna-Chandra-kumar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Purna-Chandra-kumar&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purna-Chandra-kumar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purna-Chandra-kumar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -87,12 +87,8 @@
 ### 🐍 Contribution Graph
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/Purna-Chandra-kumar/Purna-Chandra-kumar/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/Purna-Chandra-kumar/Purna-Chandra-kumar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
-> ⚠️ Snake graph needs a one-time GitHub Action setup — see "Snake Graph Setup" below.
-
----
 
 ### 📌 Featured Projects
 
