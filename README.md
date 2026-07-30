@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://purna-chandra-kumar.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-2EBFA5?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:santoshpanigrahi7505@gmail.com">
@@ -74,14 +73,6 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Purna-Chandra-kumar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <img width="49%" src="https://streak-stats.demolab.com?user=Purna-Chandra-kumar&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purna-Chandra-kumar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Purna-Chandra-kumar&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ### 🐍 Contribution Graph
